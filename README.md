@@ -23,4 +23,5 @@ Files for Data 902 Class
 ![comparison_cloud](https://user-images.githubusercontent.com/25727005/39078616-00b97e46-44da-11e8-917c-91648e250172.png)
 
 ## Emotional Analysis
+<img width="549" alt="emotionalanalysis" src="https://user-images.githubusercontent.com/25727005/39078754-00651138-44dc-11e8-85e0-266c575e743f.PNG">
 
